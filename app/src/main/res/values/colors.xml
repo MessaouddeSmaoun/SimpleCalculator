@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorBackground">#2D2D2D</color>
+    <color name="backgroundColorDisplay">#414141</color>
+    <color name="numberColorDisplay">#FFFFFFFF</color>
+
+    <color name="borderColorMemo">#C37602</color>
+    <color name="borderColorNumber">#353535</color>
+    <color name="borderColorOperator">#353535</color>
+    <color name="borderColorOperatorSpec">#353535</color>
+    <color name="borderColorEqual">#287E13</color>
+    <color name="borderColorRemove">#BA1717</color>
+
+
+    <color name="backgroundColorMemo">#D48610</color>
+    <color name="backgroundColorNumber">#414141</color>
+    <color name="backgroundColorOperator">#414141</color>
+    <color name="backgroundColorOperatorSpec">#414141</color>
+    <color name="backgroundColorEqual">#2E8818</color>
+    <color name="backgroundColorRemove">#D32727</color>
+
+    <color name="textColorMemo">#FFFFFFFF</color>
+    <color name="textColorNumber">#FFFFFFFF</color>
+    <color name="textColorOperator">#FFFFFFFF</color>
+    <color name="textColorOperatorSpec">#FFFFFFFF</color>
+    <color name="textColorEqual">#FFFFFFFF</color>
+    <color name="textColorRemove">#FFFFFFFF</color>
+
+</resources>
